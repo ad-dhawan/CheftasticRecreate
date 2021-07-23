@@ -1,0 +1,6 @@
+[submodule "cheftastic-frontend"]
+	path = cheftastic-frontend
+	url = https://github.com/ad-dhawan/cheftastic-frontend.git
+[submodule "cheftastic-backend"]
+	path = cheftastic-backend
+	url = https://github.com/ad-dhawan/cheftastic-backend.git
